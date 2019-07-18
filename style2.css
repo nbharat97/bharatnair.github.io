@@ -1,0 +1,40 @@
+body{
+	margin: 0;
+	padding: 0;
+	background : url(images/timepass.jpg) no-repeat;
+	
+} 
+.box{
+
+	width: 500px;
+	height: 700px;
+	background : rgba(0,0,0,0.4);
+	padding: 40px;
+	text-align: center;
+	margin: auto;
+	margin-top: 5%;
+	color: white;
+	font-family: 'Century Gothic',sans-serif;
+}
+.box-img{
+	border-radius: 50%;
+	width:150px;
+	height:150px;
+}
+.box h2{
+
+	font-size: 30px;
+	letter-spacing: 3px;
+	font-weight:bold;
+	font-style: bold;
+
+}
+.box h5{
+	font-size: 20px;
+	letter-spacing: 1px;
+	
+
+}
+.box p{
+	text-align: justify;
+}
